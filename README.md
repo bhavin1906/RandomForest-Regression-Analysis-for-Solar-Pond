@@ -21,12 +21,8 @@ Tuned hyperparameters like number of estimators to balance prediction performanc
 
 
 Achieved high prediction accuracy with the Random Forest model:
-
-MAPE < 5% 
-
-R² ≈ 0.98,
-
-indicating strong agreement with simulated ground truth across most locations
+MAPE < 5% & 
+R² ≈ 0.98,indicating strong agreement with simulated ground truth across most locations
 
 
 Demonstrated generalizability across diverse climates, validating the model’s use in early-stage design workflows
